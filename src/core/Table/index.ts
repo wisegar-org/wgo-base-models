@@ -43,6 +43,7 @@ export interface ITableLeftButton {
   color: string;
   action?: string;
   fnAction?: any;
+  fnShow?: any;
 }
 
 export interface ITableRowButton {
@@ -51,6 +52,7 @@ export interface ITableRowButton {
   tooltip?: string;
   fnAction: any;
   grouped?: boolean;
+  fnShow?: any;
 }
 
 export interface ITableSearchStrategy {
