@@ -17,17 +17,14 @@
     "type": "git",
     "url": "git+https://github.com/wisegar-org/wgo-base-models.git"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/fs-extra": "9.0.13",
     "fs-extra": "11.1.0",
     "nodemon": "2.0.20",
-    "ts-node": "10.9.1",
-    "typeorm": "0.3.6",
-    "wgo-mailer": "^0.0.3"
+    "ts-node": "10.9.1"
   },
-  "peerDependencies": {
-    "typeorm": "0.3.6",
+  "dependencies": {
+    "typeorm": "^0.3.17",
     "wgo-mailer": "^0.0.3"
   }
 }
