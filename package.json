@@ -1,6 +1,6 @@
 {
   "name": "wgo-models",
-  "version": "1.0.0",
+  "version": "1.0.0-dev.1",
   "description": "",
   "main": "build/index.js",
   "files": [
