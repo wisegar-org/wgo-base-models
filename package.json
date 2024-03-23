@@ -1,5 +1,5 @@
 {
-  "name": "@wisegar-org/wgo-base-models",
+  "name": "wgo-models",
   "version": "0.0.1-22",
   "description": "",
   "main": "build/index.js",
