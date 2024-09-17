@@ -22,8 +22,5 @@
     "fs-extra": "11.1.0",
     "nodemon": "2.0.20",
     "ts-node": "10.9.1"
-  },
-  "dependencies": {
-    "typeorm": "^0.3.17"
   }
 }
