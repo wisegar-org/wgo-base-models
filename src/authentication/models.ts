@@ -1,6 +1,6 @@
-import { EmailOptions } from "wgo-mailer";
 import { IUser } from "../core";
 import { IContextBase } from "../core/context";
+import { IEmailOptions } from "../email";
 
 export interface IAuthModelArg {
   ctx: IContextBase;
@@ -10,7 +10,7 @@ export interface IAuthModelArg {
   hostBase: string;
   tokenExpiresIn?: string;
   tokenRegisterExpiresIn?: string;
-  emailOptions: EmailOptions;
+  emailOptions: IEmailOptions;
   transportEmailOptions: any;
 }
 

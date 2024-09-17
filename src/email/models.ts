@@ -2,8 +2,8 @@ import { Readable } from "stream";
 import { Url } from "url";
 
 export interface IEmailOptions {
-  subject: string;
-  to: string;
+  subject?: string;
+  to?: string;
   from?: string;
   text?: string;
   html?: string;

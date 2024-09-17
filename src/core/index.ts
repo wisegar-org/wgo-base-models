@@ -9,7 +9,6 @@ export * from "./seo";
 export * from "./Menu";
 export * from "./Table";
 
-export * from "./enums/Actions";
 export * from "./enums/AuthError";
 export * from "./enums/BaseError";
 export * from "./enums/FrequencyRepeatEnum";

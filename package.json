@@ -24,7 +24,6 @@
     "ts-node": "10.9.1"
   },
   "dependencies": {
-    "typeorm": "^0.3.17",
-    "wgo-mailer": "^0.0.3"
+    "typeorm": "^0.3.17"
   }
 }
