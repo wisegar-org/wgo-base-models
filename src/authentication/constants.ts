@@ -1,4 +1,6 @@
 export const SUPERADMIN = "SUPERADMIN";
+export const ADMIN = "ADMIN";
+export const USER = "USER";
 
 export const WRONG_USER_PASSWORD = "WGO_AUTH_WRONG_USER_PASSWORD";
 export const WRONG_CONFIRM_EMAIL = "WGO_AUTH_WRONG_CONFIRM_EMAIL";
